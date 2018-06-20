@@ -3,6 +3,8 @@
 #include <iostream>
 #include <cstdlib>
 
+//To jest bardzo stara praca domowa.
+
 class smartArray
 {
 private:
